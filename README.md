@@ -14,26 +14,32 @@ I have been creating simple web applications since 2020, but I didn't care to
 add any personal information to my profile until recently.
 
 ### Programming languages
-As of September 2021, I am (more or less) familiar with the following programming 
+As of 2022, I am (more or less) familiar with the following programming 
 languages:
 * JavaScript
 * PHP
 * MySQL/SQL
+* C#
 
 ### Web development/design
-As of September 2021, I am (more or less) familiar with the following tools/techniques:
+As of 2022, I am (more or less) familiar with the following tools/techniques:
 * HTML
-* CSS
+* CSS/SASS
+* React
+* Node.js
+* Express.js
+* MongoDB
 * WordPress
 * Git
 * Adobe XD
+* ASP.NET Core
 
 ### Who am I?
-I'm 32 years old and I live in Sweden. I was born in Germany, but I grew up in Sweden,
+I'm 33 years old and I live in Sweden. I was born in Germany, but I grew up in Sweden,
 so I'm bilingual. I am, in fact, a language nerd. I speak German, Swedish, English and French.
 I actually worked as a freelance translator for a few years.
 
-I love lifting! I hit the gym four times a week. Oh, and I love tea, as my latest repo should tell you.
+I love lifting! I hit the gym four times a week. Oh, and I love tea, as one of my repos should tell you.
 
 
 
